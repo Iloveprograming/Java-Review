@@ -471,3 +471,8 @@ final V putVal(int hash, K key, V value, boolean onlyIfAbsent,
 #### ConcurrentHashMap
 
 ConcurrentHashMap是Java中的一个**线程安全且高效的HashMap实现**。高并发的优质map结构。
+
+参考资料：
+1. [https://www.jianshu.com/u/b3381a075b62](https://www.jianshu.com/u/b3381a075b62)
+2. [https://www.jianshu.com/p/ee0de4c99f87](https://www.jianshu.com/p/ee0de4c99f87)
+3. [https://www.cnblogs.com/IT-CPC/](https://www.cnblogs.com/IT-CPC/)
